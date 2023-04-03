@@ -1,0 +1,81 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #2525;
+    background: 222;
+    
+}
+
+.card {
+    background: #000000d0;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 46p;
+    width: 2.5em;
+    outline: none;
+    height: 46px;
+    background: #7c7c7c2;
+    background: #7c7c7;
+    color: grey;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
+
+input.search-bar {
+    border: none;
+    outline: none;
+    padding: 0.8em;
+    /* border: rebeccapurple; */
+    border-radius: -0.2em;
+    background: 7c7c7c2b;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    border-radius: 24px;
+    font-size: 120%;
+    padding: -0.2em;
+    padding: 0.5em 1em;
+}
+
+button {}
+
+button {:
+    hover;
+    hover;
+    hover;
+    hove;
+    hov;
+    ho;
+    h;
+}
+
+button:hover {
+    background: #7c7c7;
+    background: #7c7c7cb;
+    backround: #7c7c7c7ccb;
+}
+
+.background {
+    background-image: url('C:\Users\Rashaan\Desktop\Weather API\lbolt.webp');
+    background-size: cover;
+    background-position: center;
+  }
